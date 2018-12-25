@@ -6,10 +6,10 @@ import org.springframework.stereotype.Component;
 /**
  * 读取项目相关配置
  * 
- * @author fuce
+ * @author xz
  */
 @Component
-@ConfigurationProperties(prefix = "fuce")
+@ConfigurationProperties(prefix = "xz")
 public class V2Config
 {
     /** 项目名称 */

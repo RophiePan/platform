@@ -25,7 +25,7 @@ import at.pollux.thymeleaf.shiro.dialect.ShiroDialect;
 /**
  * 权限配置文件
  * @ClassName: ShiroConfiguration
- * @author fuce
+ * @author xz
  * @date 2018年8月25日
  *
  */

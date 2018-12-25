@@ -4,7 +4,7 @@ import com.xz.platform.model.auto.TsysRole;
 
 /**
  * 角色自定义数据
- * @author fuce 
+ * @author xz 
  * @date: 2018年9月8日 上午12:18:59
  */
 public class RoleVo extends TsysRole{

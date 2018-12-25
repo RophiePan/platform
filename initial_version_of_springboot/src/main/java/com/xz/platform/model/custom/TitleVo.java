@@ -9,7 +9,7 @@ package com.xz.platform.model.custom;
  * @param isControl 是否开启小控件
  * @param isribbon 是都开启彩带
  * @ClassName: TitleVo
- * @author fuce
+ * @author xz
  * @date 2018年8月26日
  */
 public class TitleVo {
@@ -65,7 +65,7 @@ public class TitleVo {
 	 * @param isControl 是否开启小控件
 	 * @param isribbon 是都开启彩带
 	 * @ClassName: TitleVo
-	 * @author fuce
+	 * @author xz
 	 * @date 2018年8月26日
 	 */
 	public TitleVo(String title, String parenttitle, boolean isMsg,

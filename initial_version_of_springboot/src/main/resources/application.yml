@@ -1,5 +1,5 @@
 # 项目相关配置
-fuce:
+xz:
   #名称
   name: Fc
   #版本
@@ -41,6 +41,7 @@ mybatis :
   type-aliases-package : com.*.model
   configuration :
     map-underscore-to-camel-case : true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
 #pagehelper分页插件
 pagehelper:
     helperDialect: mysql

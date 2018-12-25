@@ -6,7 +6,7 @@ import com.xz.platform.model.auto.TsysPremission;
 
 /**
  * 权限树
- * @author fuce 
+ * @author xz 
  * @date: 2018年9月8日 下午6:40:29
  */
 public class PremissionThreeModelVo{

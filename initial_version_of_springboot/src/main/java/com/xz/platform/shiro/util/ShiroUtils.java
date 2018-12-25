@@ -16,7 +16,7 @@ import com.xz.platform.util.StringUtils;
 /**
  * shiro 工具类
  *	
- * @author fuce
+ * @author xz
  */
 public class ShiroUtils
 {

@@ -12,7 +12,7 @@ import com.xz.platform.common.exception.file.FileNameLengthLimitExceededExceptio
 
 /**
  * 文件上传工具类
- * @author fuce 
+ * @author xz 
  * @date: 2018年9月22日 下午10:33:23
  */
 public class FileUploadUtils

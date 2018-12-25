@@ -30,7 +30,7 @@ import com.xz.platform.util.StringUtils;
 /**
  * 系统用户
  * @ClassName: SysUserService
- * @author fuce
+ * @author xz
  * @date 2018年8月26日
  *
  */

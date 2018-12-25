@@ -21,7 +21,7 @@ import com.xz.platform.model.custom.TitleVo;
 
 /**
  * 权限Controller
- * @author fuce 
+ * @author xz 
  * @date: 2018年9月2日 下午8:08:21
  */
 @Controller

@@ -27,7 +27,7 @@ import com.xz.platform.util.StringUtils;
 
 /**
  * 操作日志记录处理
- * @author fuce 
+ * @author xz 
  * @date: 2018年9月30日 下午1:40:33
  */
 @Aspect

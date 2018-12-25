@@ -4,7 +4,7 @@ import com.xz.platform.model.auto.TsysUser;
 
 /**
  * @ClassName: TsysUserDao
- * @author fuce
+ * @author xz
  * @date 2018年8月25日
  *
  */

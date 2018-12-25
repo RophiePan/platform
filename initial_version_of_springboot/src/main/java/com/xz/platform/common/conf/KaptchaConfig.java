@@ -9,7 +9,7 @@ import com.google.code.kaptcha.util.Config;
 
 /**
  * 谷歌验证码配置文件
- * @author fuce 
+ * @author xz 
  * @date: 2018年9月12日 上午11:02:13
  */
 @Configuration

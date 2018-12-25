@@ -17,7 +17,7 @@ import org.apache.shiro.web.filter.authz.PermissionsAuthorizationFilter;
 /**
  * 通过字符串验证权限
  * @ClassName: URLPermissionsFilter
- * @author fuce
+ * @author xz
  * @date 2018年8月26日
  *
  */

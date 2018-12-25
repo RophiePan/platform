@@ -1,5 +1,5 @@
 ${AnsiColor.BRIGHT_YELLOW}
-Application Version: ${fuce.version}
+Application Version: ${xz.version}
 Spring Boot Version: ${spring-boot.version}
   _____            _             _                 _        ___  
  / ____|          (_)           | |               | |      |__ \ 

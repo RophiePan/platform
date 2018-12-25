@@ -29,7 +29,7 @@ import com.xz.platform.util.StringUtils;
  * 身份校验核心类
  * 
  * @ClassName: MyShiroRealm
- * @author fuce
+ * @author xz
  * @date 2018年8月25日
  *
  */

@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @ClassName: ShiroFilterMapFactory
- * @author fuce
+ * @author xz
  * @date 2018年8月26日
  *
  */

@@ -3,7 +3,7 @@ package com.xz.platform.util;
 /**
  * 雪花算法生成uuid
  *	
- * @author fuce
+ * @author xz
  */
 public class SnowflakeIdWorker {
 

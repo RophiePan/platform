@@ -265,4 +265,4 @@ CREATE TABLE `t_sys_user` (
 -- Records of t_sys_user
 -- ----------------------------
 INSERT INTO `t_sys_user` VALUES ('1', 'admin', '21232f297a57a5a743894a0e4a801fc3');
-INSERT INTO `t_sys_user` VALUES ('488294747442511872', 'fuce', 'e10adc3949ba59abbe56e057f20f883e');
+INSERT INTO `t_sys_user` VALUES ('488294747442511872', 'xz', 'e10adc3949ba59abbe56e057f20f883e');

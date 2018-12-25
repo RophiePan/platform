@@ -10,7 +10,7 @@ import org.springframework.scheduling.annotation.Scheduled;
  * 自定义定时器
 * @ClassName: Myquartz
 * @Description: TODO(这里用一句话描述这个类的作用)
-* @author fuce
+* @author xz
 * @date 2018年6月3日
 *
  */

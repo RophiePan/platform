@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * 全局异常处理
- * @author fuce 
+ * @author xz 
  * @date: 2018年9月9日 下午10:52:55
  */
 public class GlobalExceptionResolver  implements HandlerExceptionResolver{

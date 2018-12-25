@@ -21,7 +21,7 @@ import com.xz.platform.model.custom.TitleVo;
 
 /**
  * 日志记录controller
- * @author fuce 
+ * @author xz 
  * @date: 2018年9月30日 下午9:28:31
  */
 @Controller

@@ -24,7 +24,7 @@ import com.xz.platform.util.StringUtils;
 /**
  * web层通用数据处理
 * @ClassName: BaseController
-* @author fuce
+* @author xz
 * @date 2018年8月18日
 *
  */
@@ -158,7 +158,6 @@ public class BaseController
 		//小控件
 		model.addAttribute("isControl",titleVo.isControl());
 		model.addAttribute("isribbon", titleVo.isIsribbon());
-		System.out.println("x");
     }
 
    
