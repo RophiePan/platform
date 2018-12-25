@@ -35,12 +35,6 @@ import io.swagger.annotations.ApiOperation;
 public class HomeController extends BaseController {
 	private static Logger logger = LoggerFactory.getLogger(HomeController.class);
 
-	// config the default page
-	@RequestMapping({ "/"})
-	public String index() {
-		return "forward:/login";
-	}
-
 	/**
 	 * 请求到登陆界面
 	 * 
